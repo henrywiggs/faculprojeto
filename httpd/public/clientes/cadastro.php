@@ -52,7 +52,7 @@
   <div class="mb-3">
     <label for="cidade" class="form-label">Cidade</label>
     <input type="input" maxlength="25" class="form-control" id="cidade" name="cidade" aria-describedby="cidadeAjuda" required>
-    <div id="cidadeAjuda" class="form-text">Informe o bairro.</div>
+    <div id="cidadeAjuda" class="form-text">Informe a cidade.</div>
   </div>
 
   <div class="mb-3">

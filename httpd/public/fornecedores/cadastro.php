@@ -64,7 +64,7 @@
   <div class="mb-3">
     <label for="nom_cidade" class="form-label">Cidade</label>
     <input type="text" class="form-control" id="nom_cidade" maxlength="25" name="nom_cidade" aria-describedby="cidadeAjuda" required>
-    <div id="cidadeAjuda" class="form-text">Informe o bairro.</div>
+    <div id="cidadeAjuda" class="form-text">Informe a cidade.</div>
   </div>
 
   <div class="mb-3">
@@ -75,7 +75,7 @@
 
   <div class="mb-3">
     <label for="num_cep" class="form-label">CEP</label>
-    <input type="number" class="form-control" id="num_cep" pattern="[0-9]+" maxlength="11" name="num_cep" aria-describedby="CEPAjuda" required>
+    <input type="input" class="form-control" id="num_cep" pattern="[0-9]+" maxlength="8" name="num_cep" aria-describedby="CEPAjuda" required>
     <div id="CEPAjuda" class="form-text">Informe o CEP.</div>
   </div>
 

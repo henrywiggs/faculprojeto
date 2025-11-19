@@ -40,7 +40,6 @@ modDev(true);
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('pedidos/cadastro',{},'#corpo')">Novo pedido</a></li>
-                                <li><a class="dropdown-item mouse-click" onclick="ajaxopen('pedidos/remover',{},'#corpo')">Remover</a></li>
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('pedidos/relatorio',{},'#corpo')">Pedidos feitos</a></li>
                             </ul>
                         </li>
