@@ -36,7 +36,7 @@ modDev(true);
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"
                             style="color:#4db388ff; font-weight:bold;">
-                            Pedidos
+                            🛒 Pedidos
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('pedidos/cadastro',{},'#corpo')">Novo pedido</a></li>
@@ -45,7 +45,7 @@ modDev(true);
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Clientes
+                                👨‍💼​ Clientes
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('clientes/cadastro',{},'#corpo')">Cadastro</a></li>
@@ -57,7 +57,7 @@ modDev(true);
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Fornecedores
+                               🛻​ Fornecedores
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('fornecedores/cadastro',{},'#corpo')">Cadastro</a></li>
@@ -69,7 +69,7 @@ modDev(true);
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Categorias de produtos
+                              📋 Categorias de produtos
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('categorias/cadastro',{},'#corpo')">Cadastro</a></li>
@@ -81,7 +81,7 @@ modDev(true);
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Unidades de produtos
+                              📦 Unidades de produtos
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('unidades/cadastro',{},'#corpo')">Cadastro</a></li>
@@ -93,7 +93,7 @@ modDev(true);
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Produtos
+                              💎​ Produtos
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item mouse-click" onclick="ajaxopen('produtos/cadastro',{},'#corpo')">Cadastro</a></li>
